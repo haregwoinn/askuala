@@ -46,6 +46,7 @@
                 </div>
 
               <h1> this is wellcome page after falk to my repository</h1>
+                <h1>hareg folk it</h1>
 
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
